@@ -5,3 +5,6 @@ build:
 
 clean:
 	jbuilder clean
+
+deb:
+	bash make-deb.sh
